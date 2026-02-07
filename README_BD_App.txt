@@ -1,0 +1,1 @@
+Rularea aplicatiei se realizeaza accesand "\BDPrj\BDPrj\bin\Debug\net6.0-windows\BDPrj.exe"
