@@ -1,4 +1,4 @@
-**'Student Sports Teams Evidene App'**
+**Student Sports Teams Evidene App**
 
 A Windows Forms-based app having 2 interfaces:
 - user interface for checking student teams, their members, their achievements and sports events results
